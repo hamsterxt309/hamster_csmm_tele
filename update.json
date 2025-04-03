@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "notification": "Thêm xóa lsgd.",
+  "version": "1.2",
+  "notification": "Fix add username null.",
   "update": [
     {
       "name": "GAME",
